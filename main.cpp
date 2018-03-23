@@ -42,3 +42,4 @@ int main() {
 	//cout << endl << "Factorial de " << fac << " es " << matematica.factorial2(fac);
 	return 0;
 }
+
